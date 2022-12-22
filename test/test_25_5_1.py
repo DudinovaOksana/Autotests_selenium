@@ -1,6 +1,5 @@
 
-import pytest
-from selenium.webdriver.common.by import By
+
 from test.base_test import login_to_my_pets_page
 
 def test_25_5_1(selenium, login_to_my_pets_page):
